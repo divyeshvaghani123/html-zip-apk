@@ -1,0 +1,15 @@
+{
+  "appId": "com.appforge.taskflow",
+  "appName": "TaskFlow Pro",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 1800,
+      "backgroundColor": "#2f0335"
+    }
+  }
+}
